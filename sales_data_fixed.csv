@@ -1,0 +1,7 @@
+Order ID,Product,Category,Quantity Ordered,Price Each,Order Date,Customer ID,City,Region
+1,Smartphone,Electronics,2,500,1/15/2023 14:45,101,New York,East
+2,Laptop,Electronics,1,1000,2/10/2023 10:30,102,Los Angeles,West
+3,Headphones,Electronics,3,150,3/12/2023 12:15,103,Chicago,Midwest
+4,Smartphone,Electronics,1,500,4/1/2023 18:00,101,New York,East
+5,Laptop,Electronics,1,1000,5/20/2023 09:00,104,Houston,South
+6,Camera,Photography,2,300,6/25/2023 20:30,105,Phoenix,West
